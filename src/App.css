@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    overflow: hidden;
+    background: black;
+}
+
+#root {
+    cursor: url('https://raw.githubusercontent.com/HaitowithGo/sekinohaito-assets/02b0c875a9ca832badaa1c9c7badf422d4e7d30f/cursol-circle-white.svg'), auto;
+}
